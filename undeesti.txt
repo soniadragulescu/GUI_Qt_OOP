@@ -1,0 +1,5 @@
+paine integrala 3.8 panemar
+covrigi sarati 4.2 vellPitar
+produs23 tip23 23 producator23
+altaPaine paine 10 berivoi
+paine45 neintegrala 3.8 panemar
